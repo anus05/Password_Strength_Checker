@@ -21,7 +21,7 @@ security rules to prevent weak passwords and reduce brute-force attacks.
 - Brute-force attack prevention
 
 ## 📸 Screenshot
-![Output](screenshots/output.png)
+![Output](Screenshot 2025-12-30 205421.png)
 
 ## ▶️ How to Run
 1. Download or clone the repository
@@ -35,3 +35,4 @@ security rules to prevent weak passwords and reduce brute-force attacks.
 
 ---
 💡 Built as a beginner cybersecurity project.
+
